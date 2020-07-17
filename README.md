@@ -1,2 +1,2 @@
-# bayesian
+# Bayesian
 Bayesian Computational Analysis
